@@ -38,6 +38,8 @@ This is a collection of regulatory, guidance and standards documents relevant fo
 - [Software as a Medical Device (SAMD): Clinical Evaluation (2017)](https://www.fda.gov/media/100714/download)
 - [Guidance for the Content of Premarket Submissions for Software Contained in Medical Devices (2005)](https://www.fda.gov/media/73065/download)
 - [Technical Performance Assessment of Quantitative Imaging in Device Premarket Submissions (2019; draft)](https://www.fda.gov/media/123271/download)
+- [Artificial Intelligence/Machine Learning -Based Software as a Medical Device Action Plan (2021)](https://www.fda.gov/media/145022/download)
+- [Good Machine Learning Practice for Medical Device Development: Guiding Principles (2021)](https://www.fda.gov/media/153486/download)
 
 ## [AAMI](https://www.aami.org/)
 
