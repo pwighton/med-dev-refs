@@ -13,7 +13,8 @@ This is a collection of regulatory, guidance and standards documents relevant fo
 
 ## [FDA](https://en.wikipedia.org/wiki/Food_and_Drug_Administration)
 
-- [Guidance for the Content of Premarket Submissions for Software Contained in Medical Devices (2005)](https://www.fda.gov/media/73065/download)
+- [Content of Premarket Submissions for Device Software Functions (2023)](https://www.fda.gov/media/153781/download)
+  - Supercedes [Guidance for the Content of Premarket Submissions for Software Contained in Medical Devices (2005)](https://www.fda.gov/media/73065/download)
 - [Off-The-Shelf Software Use in Medical Devices (2019)](https://www.fda.gov/media/71794/download)
 - [Content of Premarket Submissions for Management of Cybersecurity in Medical Devices (2018; Draft)](https://www.fda.gov/media/119933/download)
 - [Design Considerations and Pre-market Submission Recommendations for Interoperable Medical Devices (2017)](https://www.fda.gov/media/95636/download)
